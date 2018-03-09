@@ -1,10 +1,10 @@
-ShowMapLocation
+Haritada Konumumu Göster
 
 
-This is a mod for **The Long Dark** by Hinterland Games Studio, Inc.
+Bu mod **The Long Dark** oyunu için ek özellik sağlar. (Hinterland Studio, Inc.)
 
 
-It will mark your current location on the region map.
+Mevcut konumunuzu bölge haritasında gösterir.
 
 
-Requires the [Mod Loader](https://github.com/zeobviouslyfakeacc/ModLoaderInstaller) to run.
+Kurulum için [Mod Yükleyici](https://github.com/zeobviouslyfakeacc/ModLoaderInstaller) gerektirir.
